@@ -1,0 +1,1 @@
+To compile the program do "make run". A prompt will ask how many elements to enter and another prompt will ask user to enter each element one at a time. The output will be the smallest value and the Btree from smallest to largest. To remove the .o files do "make clean"
